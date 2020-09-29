@@ -1,6 +1,9 @@
 # Heart-Disease-Dataset-Project
 Heart Disease Dataset  study with Python
 
+
+![](https://www.heart.org/-/media/images/news/2020/april-2020/0409womeninoca_sc.jpg?la=en&hash=FB92F3A1B0D2F7EB893BF94C3CFECB73D15C2B4E)
+
 Evaluation of some factors that may be important in heart diseases using Naive Bayes, KNN and SVM and making predictions
 
 About Data
