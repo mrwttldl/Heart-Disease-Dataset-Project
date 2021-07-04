@@ -1,4 +1,4 @@
-# Heart-Disease-Dataset-Project
+## :mask:  Heart-Disease-Dataset-Project
 Heart Disease Dataset  study with Python
 
 
@@ -6,7 +6,8 @@ Heart Disease Dataset  study with Python
 
 Evaluation of some factors that may be important in heart diseases using Naive Bayes, KNN and SVM and making predictions
 
-About Data
+## :white_check_mark:  Dataset Information
+
 Heart diseases can be due to a variety of reasons, so we may need to evaluate some qualifications.This data set  consists of four databases: Cleveland, Hungary, 
 Switzerland, and Long Beach V. It contains 76 attributes, including the predicted attribute, but all published experiments refer to using a subset of 14 of them.
 The "target" field refers to the presence of heart disease in the patient. It is integer valued 
